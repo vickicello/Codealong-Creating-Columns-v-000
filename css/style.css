@@ -98,7 +98,9 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
-  visibility: hidden;  
+  visibility: hidden;
+  height: 0;
+  line-height: 0; 
 }
 
 [class*="col-"] {
