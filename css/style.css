@@ -71,7 +71,10 @@ figcaption {
   color: red;
 }
 
-/* layout //// */
+/*MEDIA*/
+
+img, video, audio
+/* LAYOUT //// */
 
 .wrapper {
   width: 960px;
@@ -100,7 +103,7 @@ figcaption {
   clear: both;
   visibility: hidden;
   height: 0;
-  line-height: 0; 
+  line-height: 0;
 }
 
 [class*="col-"] {
